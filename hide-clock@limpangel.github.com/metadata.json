@@ -1,0 +1,11 @@
+{
+  "name": "Hide clock",
+  "description": "Hides the clock from the top panel",
+  "shell-version": [
+    "3.4",
+    "3.6"
+  ],
+  "url": "https://github.com/limpangel/gnome-shell-hide-clock",
+  "uuid": "hide-clock@limpangel.github.com",
+  "version": 1
+}

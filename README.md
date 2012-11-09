@@ -1,4 +1,4 @@
-gnome-shell-hide-clock
-======================
+Gnome shell hide clock extension
+================================
 
-Gnome shell extension that hides the clock in the top panel.
+It offers the option to hide the clock from the top panel.
